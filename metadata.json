@@ -1,0 +1,7 @@
+{
+  "name": "RiskLens AI",
+  "description": "An enterprise-grade AI-powered Risk, Governance & Compliance optimization platform for banks, telcos, and large corporations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
